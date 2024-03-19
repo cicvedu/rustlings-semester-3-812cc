@@ -32,7 +32,7 @@ fn main() {
     println!(
         "Going forward, the source of the exercises will always be in the success/failure output."
     );
-    println!();
+    println!("-----------------");
     println!(
         "If you want to use rust-analyzer, Rust's LSP implementation, make sure your editor is set"
     );
